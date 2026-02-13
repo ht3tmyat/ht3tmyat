@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Htet Myat 👋
 
-<!--
-**ht3tmyat/ht3tmyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Application & Website Developer building scalable web apps, APIs, and automation systems.
 
-Here are some ideas to get you started:
+## 🚀 What I Work With
+- Next.js / React
+- Flutter
+- Node.js / Python / PHP
+- Ubuntu / Nginx / Redis / Celery
+- Telegram Bots & Automation
+- Monetized Digital Platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Focus
+Clean architecture • Performance • Security • Scalable systems
+
+📬 Open to collaboration
